@@ -69,7 +69,7 @@ export class AppComponent {
 
 ## Include it in your application
 
-Bootrapping this application is easy. Import ```MatomoModule``` into your root ```NgModule```.
+Bootstrapping this application is easy. Import ```MatomoModule``` into your root ```NgModule```.
 
 ```ts
 import { NgModule } from '@angular/core';
